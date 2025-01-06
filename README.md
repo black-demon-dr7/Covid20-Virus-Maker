@@ -1,6 +1,6 @@
 # Covid20-Virus-Maker
 
-<img src="https://img4.teletype.in/files/fd/37/fd377443-f23a-4f48-b11e-9803934a8d57.jpeg" alt="Index" width="200" height="200" align="center">
+<img align="center" src="https://img4.teletype.in/files/fd/37/fd377443-f23a-4f48-b11e-9803934a8d57.jpeg" alt="200" width="200" height="200">
 
 **Covid20 App:** Virus Creator 🥶🔥
 
