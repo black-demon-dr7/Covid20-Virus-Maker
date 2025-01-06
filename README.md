@@ -19,9 +19,9 @@
 
 🔸 **Accurate information gathering:** Collect sensitive data about the victim's device, such as location, operating system details, IP address, and more.
 
-🔸 **User-friendly interface: A simple design that allows you to have full control with ease.
+🔸 **User-friendly interface:** A simple design that allows you to have full control with ease.
 
-🔸 Customize the virus your way.
+🔸 **Customize the virus your way.**
 
 
 ## 🔴 Download Link:
